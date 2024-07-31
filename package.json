@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "aroldo@udrew.com.au",
   "license": "GPL-3.0",
   "dependencies": {
     "@sparticuz/chromium": "^126.0.0",
