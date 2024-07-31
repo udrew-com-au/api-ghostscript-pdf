@@ -1,0 +1,15 @@
+{
+  "name": "api-ghostscript-pdf",
+  "version": "1.0.0",
+  "description": "Public repository using puppeteer and ghostscript to generate and compress pdf files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@sparticuz/chromium": "^126.0.0",
+    "puppeteer-core": "^22.14.0"
+  }
+}
